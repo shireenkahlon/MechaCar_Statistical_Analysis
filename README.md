@@ -18,7 +18,8 @@ The image below shows the summary of all of the lots combined:
 The following image shows the summary of each lot:
 ![lot_summary](https://github.com/shireenkahlon/MechaCar_Statistical_Analysis/blob/main/screenshots/Lot_Summary.png)
 
-The boxplot below potrays the 
+The boxplot below potrays the statistics and outliers of each lot:
+![PSI_boxplot](https://github.com/shireenkahlon/MechaCar_Statistical_Analysis/blob/main/screenshots/PSI_Boxplot.png)
 
 
 ## T-Tests on Suspension Coils
