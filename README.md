@@ -2,7 +2,7 @@
 This project will use R to perform a statistical analysis on vehicle production and manufacturing
 
 ## Linear Regression to Predict MPG
-The linear regression performed gives us statistics in which we can determine how MPG in the vehicles was influenced by a random factor or by specific factors, such as vehicle length, vehicle weight, spoiler angle, ground clearance or AWD. From these statistics gathered, we can see that vehicle length and ground clearance have some effect on the MPG in at least one vehicle. In other words, we can reject the null hypothesis on this finding. 
+The linear regression performed gives us statistics in which we can determine how miles-per-gallon (MPG) in the vehicles was influenced by a random factor or by specific factors, such as vehicle length, vehicle weight, spoiler angle, ground clearance or AWD. From these statistics gathered, we can see that vehicle length and ground clearance have some effect on the MPG in at least one vehicle. In other words, we can reject the null hypothesis on this finding. 
 ![linear_regression](https://github.com/shireenkahlon/MechaCar_Statistical_Analysis/blob/main/screenshots/mechacar_linear_regression.png)
 
 
