@@ -6,7 +6,7 @@ The linear regression performed gives us statistics in which we can determine ho
 ![linear_regression](https://github.com/shireenkahlon/MechaCar_Statistical_Analysis/blob/main/screenshots/mechacar_linear_regression.png)
 
 
-By looking at the statistics provided to us in the image above, we can see that the slope is not 0. The r-squared value is 0.68, which means that 68% of predictions relevant to the data analyzed could be correct. The 0.68 r-squared value tells us that the slope will not be zero. By looking at the statistics provided to us, we can see that the slope is not 0. The r-squared value is 0.68, which means that 68% of predictions relevant to the data analyzed could be correct. The 0.68 r-squared value tells us that the slope will not be zero. An r-squared value of 0.68 can help us with predicting the mpg of MechaCar prototypes. However, in addition to the r-squared value, further regression statistical analyses and regression diagnostic studies would need to be conducted to gain a full picture of the data in front of us.
+By looking at the statistics provided to us in the image above, we can see that the slope is not 0. The r-squared value is 0.68, which means that 68% of predictions relevant to the data analyzed could be correct. The 0.68 r-squared value tells us that the slope will not be zero. An r-squared value of 0.68 can help us with predicting the MPG of MechaCar prototypes. However, in addition to the r-squared value, further regression statistical analyses and regression diagnostic studies would need to be conducted to gain a full picture of the data in front of us.
 
 
 ## Summary Statistics on Suspension Coils
