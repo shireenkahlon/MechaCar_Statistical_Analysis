@@ -1,12 +1,12 @@
 # MechaCar_Statistical_Analysis
-This project will use R to perform a statistical analysis on vehicle production and manufacturing
+This project will use R to perform a statistical analysis on vehicle production and manufacturing.
 
 ## Linear Regression to Predict MPG
-The linear regression performed gives us statistics in which we can determine how miles-per-gallon (MPG) in the vehicles was influenced by a random factor or by specific factors, such as vehicle length, vehicle weight, spoiler angle, ground clearance or AWD. From these statistics gathered, we can see that vehicle length and ground clearance have some effect on the MPG in at least one vehicle. In other words, we can reject the null hypothesis on this finding. 
+The linear regression performed gives us statistics in which we can determine how miles-per-gallon (MPG) in the vehicles was influenced by a random factor or by specific factors, such as vehicle length, vehicle weight, spoiler angle, ground clearance, or AWD. From these statistics gathered, we can see that vehicle length and ground clearance have some effect on the MPG in at least one vehicle. In other words, we can reject the null hypothesis on this finding. 
 ![linear_regression](https://github.com/shireenkahlon/MechaCar_Statistical_Analysis/blob/main/screenshots/mechacar_linear_regression.png)
 
 
-By looking at the statistics provided in the image above, we can see that the slope is not 0. The r-squared value is 0.68, which means that 68% of predictions relevant to the data analyzed could be correct. The 0.68 r-squared value tells us that the slope will not be zero. An r-squared value of 0.68 can help us with predicting the MPG of MechaCar prototypes. However, in addition to the r-squared value, further regression statistical analyses and regression diagnostic studies would need to be conducted to gain a full picture of the data in front of us.
+By looking at the statistics provided in the image above, we can see that the slope is not 0. The r-squared value is 0.68, which means that 68% of predictions relevant to the data analyzed could be correct. The 0.68 r-squared value tells us that the slope will not be zero. The specified r-squared value can help us with predicting the MPG of MechaCar prototypes. However, in addition to the r-squared value, further regression statistical analyses and regression diagnostic studies would need to be conducted to gain a full picture of the data in front of us.
 
 
 ## Summary Statistics on Suspension Coils
@@ -34,7 +34,7 @@ The images below displays the results of the t-test for each lot:
 
 ## Study Design: MechaCar vs Competition
       To examine how MechaCar will perform against competition from a customer’s point-of-view, we can look at various different statistics. To start off, we would need to create a null and alternative hypothesis. To do this requires us to validate or invalidate the hypothesis: if MechaCar’s vehicles have superior marks on safety ratings, then MechaCar will sell more cars than our competitors. For this statement, the null hypothesis would be stating that safety ratings is not a factor in cars being sold; the alternative hypothesis is safety ratings is a factor in the number of vehicles being sold from MechaCar.  
-      In order to test this hypothesis, we would need to gather data on car sales and safety ratings of each car. Afterwards, we can create a linear regression model using car sales as the dependent value and safety ratings as the independent value. We can create a plot and visualize the linear regression as an error bar. At this point, we can do the same for the competitors of taking the linear regression of their sales and safety ratings; this can be displayed on our graph in a different color so we can compare our sales to the competitors.   
+      In order to test this hypothesis, we would need to gather data on car sales and safety ratings of each car. Afterwards, we can create a linear regression model using car sales as the dependent value and safety ratings as the independent value. We can create a plot and visualize the linear regression as an error bar. At this point, we can do the same for the competitors — we can take the linear regression of their sales and safety ratings; this can be displayed on our graph in a different color so we can compare our sales to the competitors.   
       If the results show a p-value of .05 or less, then we can reject the null hypothesis and say that safety ratings was a factor in sales. We can also use the r-squared value to help us predict the sales going forward. If the r is above .07, this is a good indicator that the sales will continue to go as shown in the past. Looking at these results gives us a good idea of how to proceed with sales and production of cars, compared to our competitors. We can make decisions based on these statistics to make this company successful in the months and years to come.
 
 
